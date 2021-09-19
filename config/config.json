@@ -1,0 +1,24 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "wasilisk2002",
+    "database": "atomic_sale",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "wasilisk2002",
+    "database": "atomic_sale",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "wasilisk2002",
+    "database": "atomic_sale",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
